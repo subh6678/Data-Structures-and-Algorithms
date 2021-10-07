@@ -9,4 +9,4 @@ Instructions -
 2. Fork this repo
 3. Add new data structures or algorithms
 4. Create a pull request
-5. Repeat step 3 and 4 for atleat 4 times
+5. Repeat step 3 and 4 for at least 4 times
